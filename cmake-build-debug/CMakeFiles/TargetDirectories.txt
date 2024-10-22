@@ -1,0 +1,3 @@
+/home/quick/CLionProjects/TankAttack/TankAttack/TankAttack/Tank-attack-/cmake-build-debug/CMakeFiles/Proyecto2.dir
+/home/quick/CLionProjects/TankAttack/TankAttack/TankAttack/Tank-attack-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/quick/CLionProjects/TankAttack/TankAttack/TankAttack/Tank-attack-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
