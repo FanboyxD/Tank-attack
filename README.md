@@ -1,5 +1,5 @@
 # Tank-attack
-Autor: Fabricio Mena Mejia y Harold Madriz Cerdas 
+Autor: Fabricio Mena Mejia y Harold Madriz Cerdas   
 Profesor: Luis Alonso Barboza Artavia  
 Curso: Datos II
 ## Requisitos
