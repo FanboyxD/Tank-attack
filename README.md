@@ -21,4 +21,5 @@ Hay que realizar la build del CMakeLists.txt, una vez realizada esta simplemente
         Matrix.h
         Player.h
         Bullet.h
-)`
+)`  
+El git ya incluye los assets necesarios, tanto de los png de los tanques como las fuentes de texto utilizadas.
