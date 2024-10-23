@@ -17,8 +17,8 @@ Curso: Datos II
 
 # Compilacion y Ejecucion  
 Hay que realizar la build del CMakeLists.txt, una vez realizada esta simplemente se corre el main.cpp, hay que tener en cuenta que el CMakeLists.txt debe incluir los header ademas del ejecutable, de la siguiente forma:  
-add_executable(Proyecto2 main.cpp
+`add_executable(Proyecto2 main.cpp
         Matrix.h
         Player.h
         Bullet.h
-)
+)`
